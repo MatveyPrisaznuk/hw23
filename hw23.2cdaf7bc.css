@@ -1,0 +1,13 @@
+.game {
+  color: #fff;
+  background-color: #7fffd4;
+  border-radius: 5px;
+  justify-content: center;
+  align-items: center;
+  width: 300px;
+  height: 300px;
+  margin: 0 auto;
+  font-size: 150px;
+  display: flex;
+}
+/*# sourceMappingURL=hw23.2cdaf7bc.css.map */
